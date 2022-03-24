@@ -1,4 +1,4 @@
-# laravelbug
+# laravel-bug-lazy-collection
 
 This repository demonstrates a bug with lazy collections.
 
